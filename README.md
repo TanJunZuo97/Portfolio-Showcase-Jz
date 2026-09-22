@@ -4,6 +4,30 @@ A single-page portfolio site: skills, career timeline, selected projects, and co
 
 Plain HTML/CSS/JS — no build step required.
 
+## About
+
+AI/ML Engineer and Data Scientist with over 4 years of experience developing machine learning
+models and AI-powered applications within the financial services industry. Experienced across
+the full ML lifecycle — data exploration, feature engineering, model development, explainability,
+and deployment — with a focus on production-ready AI solutions using LLMs, Retrieval-Augmented
+Generation (RAG), vector databases, and workflow automation.
+
+**Currently:** Data Scientist at Synpulse Singapore, working on Trade-Based Money Laundering
+(TBML) detection — designing red flag indicators and ML models that cut false positives by 60%
+while maintaining 87.5% recall.
+
+**Previously:** Data Scientist at Corestrat Capital, where he built credit scorecards, an
+Expected Credit Loss (ECL) model, and was primary backend developer for Intellidecision.ai, a
+predictive model builder platform.
+
+**Education:** B.Eng in Electrical & Electronic Engineering (Infocommunications & Machine
+Learning) from Nanyang Technological University (NTU), Singapore.
+
+**Certifications:** Quantexa Certified Data Engineer; Heicoders GA100 (Generative AI for
+Automation & Productivity).
+
+Full details — skills, timeline, and selected projects — are on the live site linked below.
+
 ## Structure
 
 ```
